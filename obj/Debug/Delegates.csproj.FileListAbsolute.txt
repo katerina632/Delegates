@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Домашная робота\Delegates\bin\Debug\Delegates.exe.config
+F:\ITStep\2 курс\C#\Домашная робота\Delegates\bin\Debug\Delegates.exe
+F:\ITStep\2 курс\C#\Домашная робота\Delegates\bin\Debug\Delegates.pdb
+F:\ITStep\2 курс\C#\Домашная робота\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Домашная робота\Delegates\obj\Debug\Delegates.exe
+F:\ITStep\2 курс\C#\Домашная робота\Delegates\obj\Debug\Delegates.pdb
